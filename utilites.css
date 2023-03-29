@@ -1,0 +1,42 @@
+.flex{
+    display: flex;
+}
+
+.item-center{
+
+    align-items: center;
+} 
+.justify-center{
+    justify-content: center;
+}
+
+.uppercase{
+    text-transform: uppercase;
+}
+
+.bold{
+
+    font-weight: bolder;
+    
+}
+
+.space-between{
+    justify-content: space-between;
+}
+
+.mx-2{
+    margin-left: 12px;
+    margin-right: 12px;
+}
+
+.flex-wrap{
+    flex-wrap: wrap;
+}
+
+.my-2{
+    margin: 12px 0px;
+    text-align: center;
+    padding: 20px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
